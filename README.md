@@ -34,4 +34,9 @@ Please contact us at silvia.santini@usi.ch to make a request regarding the data 
 
 ## Data analysis
 
-Coming soon ...
+The repository contain snippets of code for replicating the data analysis steps as in paper [1]. 
+
+- *FeatureExtraction*: Explains how to extract the time-, frequency- and time-frequency-domain features. 
+- *Classification_Pipeline*: Reports how to run the personalized and population models described in the paper.
+
+For preprocessing the data please refer to this notebook: https://github.com/shkurtagashi/EDArtifact/blob/master/EDArtifacts_Detection/EDArtifacts_Detection.ipynb
