@@ -22,7 +22,7 @@ M2Sleep (*Monitoring of Sleep using Personal Devices*) is a data set collected b
 
 - *Self-reported data*: 632 self-reports regarding the sleep and wake up time and 312 self-reports regarding sleep quality. The self-reported data was collected using three tools, an Android application, a laptop widget and a pen-and-paper diary.
 
-- *Questionnaires*: the Pittsburg Sleep quality Index (PSQI), the Big Five Inventory (BFI), Munich ChronoType Questionnaire} (MCTQ) and demographics questionnaire. 
+- *Questionnaires*: the Pittsburg Sleep quality Index (PSQI), the Big Five Inventory (BFI), Munich ChronoType Questionnaire (MCTQ) and demographics questionnaire. 
 
 All participants signed an informed consent agreement and agreed with their data being used and shared for research purposes. The study was reviewed and approved by our Faculty's representative for research ethics. Participants were compensated with an initial amount of 20 CHF for enrollment and 1 CHF for each day upon collection of physiological data and self-reports regarding sleep and wake up times as well as sleep quality for 30 days. 
 
